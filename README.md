@@ -1,1 +1,2 @@
 # odin-recipes
+In this project, I will build a website showcasing three of my favorite recipes, as an opportunity to practice all of the HTML knowledge I have acquired through the Odin Project curriculum.
