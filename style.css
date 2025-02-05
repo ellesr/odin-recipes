@@ -1,0 +1,13 @@
+* {
+    background-color: rgb(225, 255, 179);
+}
+h1, h2 {
+    font-family: 'Brush Script MT', cursive;
+}
+h1, h2, .source {
+    color: rgb(255, 0, 0);
+}
+ul li, ol li, p {
+    font-family: 'Georgia', serif;
+    color: rgb(2, 89, 2);
+}
